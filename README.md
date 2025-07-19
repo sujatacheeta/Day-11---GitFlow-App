@@ -50,7 +50,7 @@
 >  git checkout main              # Merge feature branch into main
    git merge feature/login-form
 
->  git remote add origin https://github.com/your-username/Day-11-GitFlow-App.git    # Remote setup
+>  git remote add origin https://github.com/sujatacheeta/Day-11---GitFlow-App.git    # Remote setup
 
 >  git push -u origin main                  # Push branches
    git push -u origin feature/login-form
